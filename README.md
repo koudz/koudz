@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @koudz
+- 🌱 I’m currently learning computer science
+- 🇧🇷 Brazil
